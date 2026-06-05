@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Template: Chris Kempson, Scheme: Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)</string>
+	<string>Template: Chris Kempson, Scheme: Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)</string>
 	<key>name</key>
 	<string>Base16 Snazzy</string>
 	<key>semanticClass</key>

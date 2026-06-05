@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Template: Chris Kempson, Scheme: Ethan Schoonover (modified by aramisgithub)</string>
+	<string>Template: Chris Kempson, Scheme: Ethan Schoonover, Mitchell Kember</string>
 	<key>name</key>
 	<string>Base16 Solarized Light</string>
 	<key>semanticClass</key>
@@ -17,11 +17,11 @@
 		<key>divider</key>
 		<string>#eee8d5</string>
 		<key>foreground</key>
-		<string>#839496</string>
-		<key>selectionBackground</key>
 		<string>#93a1a1</string>
+		<key>selectionBackground</key>
+		<string>#c0c4bb</string>
 		<key>selectionForeground</key>
-		<string>#657b83</string>
+		<string>#839496</string>
 	</dict>
 	<key>settings</key>
 	<array>
@@ -31,15 +31,15 @@
 				<key>background</key>
 				<string>#fdf6e3</string>
 				<key>caret</key>
-				<string>#586e75</string>
+				<string>#657b83</string>
 				<key>foreground</key>
-				<string>#586e75</string>
+				<string>#657b83</string>
 				<key>invisibles</key>
-				<string>#839496</string>
-				<key>lineHighlight</key>
-				<string>#83949655</string>
-				<key>selection</key>
 				<string>#93a1a1</string>
+				<key>lineHighlight</key>
+				<string>#93a1a155</string>
+				<key>selection</key>
+				<string>#c0c4bb</string>
 			</dict>
 		</dict>
 		<dict>
@@ -50,7 +50,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586e75</string>
+				<string>#657b83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#839496</string>
+				<string>#93a1a1</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,7 +72,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586e75</string>
+				<string>#657b83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -83,7 +83,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586e75</string>
+				<string>#657b83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -94,7 +94,7 @@
 			<key>settings</key>
 			<dict>
 				<key>foreground</key>
-				<string>#586e75</string>
+				<string>#657b83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -419,9 +419,9 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#93a1a1</string>
+				<string>#c0c4bb</string>
 				<key>foreground</key>
-				<string>#586e75</string>
+				<string>#657b83</string>
 			</dict>
 		</dict>
 		<dict>
@@ -548,7 +548,7 @@
 			<key>settings</key>
 			<dict>
 				<key>background</key>
-				<string>#839496</string>
+				<string>#93a1a1</string>
 				<key>foreground</key>
 				<string>#002b36</string>
 			</dict>
